@@ -1,0 +1,9 @@
+Fuze version? 0.1.2a
+
+macOS Version? MacOS 10.15.3
+
+Steps to reproduce: it keeps searching for the device and then fails to recognize it. (i've installed everything in the guide and the command "frida-ps -U" works)
+
+Expected behavior: Device showing up
+
+Screenshots (optional)
